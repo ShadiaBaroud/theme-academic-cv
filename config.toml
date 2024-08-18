@@ -1,4 +1,4 @@
 baseURL = "https://shadia-baroud.netlify.app/"
 languageCode = "en-us"
 title = "Shadia Baroud"
-theme = "hugo-theme-learn"
+theme = "theme-academic-cv"
